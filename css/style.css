@@ -5,6 +5,24 @@
     box-sizing: border-box;
 }
 
+/*BODY*/
 body {
-    font-family: "fredoka", sans-serif;
+    font-family: "Fredoka One", sans-serif;
+}
+
+/*HEADER*/
+header {
+    margin: 50px 0;
+}
+
+h1 {
+    font-size: 50px;
+    color:purple;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 50px;
 }
