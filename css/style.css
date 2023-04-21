@@ -26,3 +26,22 @@ p {
     text-align: center;
     margin-bottom: 50px;
 }
+
+/*CONTAINER*/
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/*CLEARFIX*/
+.clearfix::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+/*COLUMN*/
+.column {
+    width: calc(100%/3);
+    float: left;
+}
