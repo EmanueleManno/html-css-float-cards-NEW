@@ -44,4 +44,12 @@ p {
 .column {
     width: calc(100%/3);
     float: left;
+    padding: 10px;
+}
+
+/*CARD*/
+.card {
+    color: white;
+    background-color: black;
+    height: 100px;
 }
