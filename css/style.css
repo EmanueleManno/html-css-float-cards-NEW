@@ -53,3 +53,9 @@ p {
     background-color: black;
     height: 100px;
 }
+
+/*IMMAGINI*/
+.card-image {
+    width: auto;
+    height: 100%;
+}
