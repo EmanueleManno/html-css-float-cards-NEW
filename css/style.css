@@ -15,12 +15,14 @@ header {
     margin: 50px 0;
 }
 
+/*TITOLO*/
 h1 {
     font-size: 50px;
     color:purple;
     text-align: center;
 }
 
+/*SOTTOTITOLO*/
 p {
     font-size: 20px;
     text-align: center;
@@ -72,6 +74,7 @@ p {
 a {
     text-decoration: none;
     color: lightskyblue;
+    font-size: small;
 }
 
 /*H3*/
@@ -82,4 +85,9 @@ h3 {
 /*ROW*/
 .row {
     margin: 0 -10px;
+}
+
+/*RUOLO*/
+.role {
+    font-size: small;
 }
