@@ -58,4 +58,16 @@ p {
 .card-image {
     width: auto;
     height: 100%;
+    float: left;
+}
+
+/*A*/
+a {
+    text-decoration: none;
+    color: lightskyblue;
+}
+
+/*H3*/
+h3 {
+    text-transform: uppercase;
 }
