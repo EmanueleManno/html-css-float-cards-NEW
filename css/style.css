@@ -57,8 +57,15 @@ p {
 /*IMMAGINI*/
 .card-image {
     width: auto;
-    height: 100%;
+    height: 100px;
     float: left;
+    margin-right: 10px;
+}
+
+/*CARD CONTENT*/
+.card-content {
+    padding: 10px;
+    line-height: calc(80px/3);
 }
 
 /*A*/
@@ -70,4 +77,9 @@ a {
 /*H3*/
 h3 {
     text-transform: uppercase;
+}
+
+/*ROW*/
+.row {
+    margin: 0 -10px;
 }
